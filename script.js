@@ -138,4 +138,4 @@ userInput.addEventListener('keydown', (e) => {
 
 // Initialize
 initChat();
-console.log('Stella AI initialized with sessionId:', sessionId);
+console.log('Nova AI initialized with sessionId:', sessionId);
